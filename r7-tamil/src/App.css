@@ -1,0 +1,83 @@
+i{
+    color:black;
+}
+.border{
+    border-color: 1px solid rgb(206, 18, 18);
+}
+
+.R7{
+    color: blue;
+}
+
+#center{
+            
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+
+
+#b{
+    text-align: center;
+}
+
+
+.cen{
+    text-align: center;
+}
+
+.topp{
+position: absolute;
+top: 90px;
+}
+.toppp{
+position: absolute;
+top: 150px;
+}
+.gray{
+background-color: darkgrey;
+}
+.AB{
+color: black;
+
+}
+.AB:hover{
+text-decoration: none;
+}
+.ABC{
+color: black;
+background-color: darkgrey;
+padding: 2px;
+margin: 2px;
+
+}
+.ABC:hover{
+text-decoration: none;
+}
+
+#emaill{
+
+color: red;
+}
+#passwordd{
+text-align: center;
+}
+.fb{
+text-decoration: none;
+color: black;
+}
+.fb:hover{
+color: black;
+text-decoration: none;
+}
+#buuu{
+
+border-radius: 10px;
+box-shadow: 0px 0px 10px 0px #000;
+
+}
+
+.dropdown-item:hover{
+background-color: lightblue;
+}

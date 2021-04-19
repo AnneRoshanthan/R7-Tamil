@@ -1,0 +1,60 @@
+.pro{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+}
+
+.cardd:hover{
+    box-shadow: 0px 0px 20px 2px #000;
+}
+
+.my{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.cmy{
+    margin-left: 4%;
+    
+}
+.Style{
+    border:1px solid;
+}
+
+.butt{
+    justify-content: space-between;
+    text-align: center;
+}
+.right{
+    margin-right: 5%;
+    width: 30%;
+}
+.buy{
+    width: 30%;
+}
+.over{
+    height: 90px;
+    overflow: auto;
+    text-align: center;
+}
+
+.cent{
+    text-align: center;
+    color: blue;
+    
+}
+.loading {
+
+text-align: center;
+margin-top:15%;
+
+}
+
+
+.Cart{
+    text-align: center;
+    margin-top: 17%;
+}
+
+.trash{
+    color: red;
+}
